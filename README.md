@@ -21,16 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-<em>✏️ A sentence about you and what you do.</em>
-<em>✏️ A sentence about you and what you do.</em>
-
-<em>✏️ A sentence about you and what you do.</em>
-
-- 🏙️ <em>✏️ A sentence about you and what you do.</em>
-- 🔭 <em>✏️ A sentence about you and what you do.</em>
-- 💡 <em>✏️ A sentence about you and what you do.</em>
-- 🌐 <em>✏️ A sentence about you and what you do.</em>
-
+I build bs and run
 ## 🛠️ Tech Stack
 
 ### Backend
